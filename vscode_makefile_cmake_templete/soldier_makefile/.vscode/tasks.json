@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"options": {
+		"cwd": "${workspaceFolder}"
+	},
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Build",
+			"command": "make pro -j6"
+		}
+	]
+}

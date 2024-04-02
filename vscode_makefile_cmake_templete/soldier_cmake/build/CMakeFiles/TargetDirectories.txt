@@ -1,0 +1,3 @@
+/home/rig/c++_learn/soldier_cmake/build/CMakeFiles/procmake.dir
+/home/rig/c++_learn/soldier_cmake/build/CMakeFiles/edit_cache.dir
+/home/rig/c++_learn/soldier_cmake/build/CMakeFiles/rebuild_cache.dir

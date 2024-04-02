@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall -std=c++11 -rdynamic CMakeFiles/procmake.dir/main.cpp.o CMakeFiles/procmake.dir/src/gun.cpp.o CMakeFiles/procmake.dir/src/soldier.cpp.o -o procmake 
